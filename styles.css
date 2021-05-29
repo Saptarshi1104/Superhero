@@ -1,0 +1,22 @@
+.body_background{
+background-image: url("https://lh3.googleusercontent.com/0cn8vYQ_vcFcqopJIF9HOBdTfaWX-eZUXFdajmQR2j53NIYGVv8-QdfhZgBvLCmPTnkPMJygwSo1SyQ7gUb3=w1920-h902-rw");
+}
+#myCanvas{
+background-color: white;
+border-style: ridge;
+border-width: 15px;
+}
+#current_width{
+color: black;
+}
+#current_height{
+color: black;
+}
+h2{
+width: 250px;
+height: 30px;
+border-radius: 20%;
+}
+h3{
+display: inline-block;
+}
